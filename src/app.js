@@ -1,0 +1,1 @@
+let welcomeUser = prompt("HI");
